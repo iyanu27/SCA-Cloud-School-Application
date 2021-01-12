@@ -1,3 +1,6 @@
+How to deploy a HTML site using Nginx and Docker
+===============================================
+
 Step 1:I created an Index.html and Dockerfile as attached in the repository
 
 Step 2:To Build the Docker image for the HTML server i used the command below:
